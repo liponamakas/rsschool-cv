@@ -1,9 +1,29 @@
-1. Palina Makas
-2. +375291871299, @lipona (Telegram)
-3. I'm an ABAP developer with a year of experience. My goal is to educate in different spheres. 
-4. ABAP  
-5. Code examples (LATEST)
-6. Junior ABAP developer
-7. LeverX LevelUp courses. 
-8. English - C1 (working with English projects)
-9. German - A2 (online learning)
+## **Palina Makas** 
+
+- liponamakas@gmail.com
+- +375291871299
+- telegram: @lipona
+
+
+|   Skills      |    Level       |
+|:-------------:|:---------------|
+| ABAP          | Passed "LeverX LevelUP" course with a certificate. 1-year work experience|
+| C++           | Novice, basic OOP           |
+| Git           | In process of education              |
+| Matlab        | Able to modulate complex physical processes |
+| Adobe PS,AI   | Skilled, able to draw logos,patterns, etc.|
+
+
+### Education
+Bachelory degree - BSU, faculty of radiophysics and computer technolories, computer security (2016-2020)
+
+SAP/ABAP - LeverX International course certificate
+
+English/German -  Streamline courses
+
+
+| Language      | Level           | Certificates  |
+|:------------- |:---------------:| -------------:|
+| English       |        B2       | Streamline    |
+| German        |        A2       | Streamline    |
+| Russian       |      Native     |               |
